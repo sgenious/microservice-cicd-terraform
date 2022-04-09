@@ -68,7 +68,4 @@ terraform apply
 ```
 
 ## License
-
-MIT
-
-**Free Software, Hell Yeah!**
+Open
